@@ -1,5 +1,5 @@
 newscatcherapi==0.7.0
-streamlit==1.8.0
+streamlit==1.11.1
 streamlit-aggrid==0.2.3.post2
 streamlit-autorefresh==0.0.1
 numpy==1.22.0
