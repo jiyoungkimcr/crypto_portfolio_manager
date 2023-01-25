@@ -2,7 +2,7 @@ newscatcherapi==0.7.0
 streamlit==1.8.0
 streamlit-aggrid==0.2.3.post2
 streamlit-autorefresh==0.0.1
-numpy==1.21.6
+numpy==1.22.0
 pandas==1.3.2
 plotly==5.7.0
 requests==2.27.1
