@@ -12,6 +12,6 @@ click==7.1.2
 tqdm==4.64.0
 blinker==1.4
 charset-normalizer==2.0.12
-scipy==1.7.3
+scipy==1.10.0
 pyxlsb==1.0.9
 XlsxWriter==3.0.3
